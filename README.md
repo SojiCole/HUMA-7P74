@@ -1,2 +1,2 @@
 # HUMA 7P74/ Soji Cole
-Welcome to my website
+Welcome to my website. More coming soon!
