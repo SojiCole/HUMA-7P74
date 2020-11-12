@@ -6,18 +6,18 @@ Welcome to my website. More coming soon!
 
 Here is my short bio:
 
-Presentation
+# Presentation
 
 Access presentation materials [here]
 
-Voyant
+# Voyant
 
 View my voyant visualizations [here]
 
-Zaxis
+# Zaxis
 
 View my Zaxis maps [here]
 
-Seminar Essay
+# Seminar Essay
 
 Read my seminar essay [here]
