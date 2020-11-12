@@ -1,2 +1,2 @@
-# HUMA-7P74
-GitHub Pages for HUMA 7P74-Fall 2020
+# HUMA 7P74/ Soji Cole
+Welcome to my website
