@@ -11,9 +11,9 @@ I am currently a PhD student of Interdisciplinary Humanities, at Brock Universit
 
 # Presentation
 
-Access presentation material [here](Preswentation).
+Access presentation material [here](Presentation).
 
-![](https://www.youtube.com/watch?v=Oq-WL_TIdMY&t=76s).
+![](https://echo360.ca/media/dc6c2a61-1c5a-4fd3-9156-72482adad429/public)
 
 # Voyant
 
