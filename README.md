@@ -4,7 +4,8 @@ Welcome to my website. More coming soon!
 
 ## Bio
 
-Here is my short bio:
+Here is my short bio: 
+I am currently a PhD student of Interdisciplinary Humanities, at Brock University. My research seeks to investigate how literatures of the indigenous Canadians, attempt to give ‘voice’ to the ‘un-voiced’ historical tension of the indigenous people through the ‘narrativization’ of memory. Through a close and interpretative study of some drama texts, my inquiry will seek to tease out how memory and history are used in indigenous dramas as both political and narrative vehicles of understanding, reiterating, interpreting and performing indigenous kinship.
 
 # Presentation
 
