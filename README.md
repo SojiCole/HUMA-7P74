@@ -8,16 +8,16 @@ Here is my short bio:
 
 # Presentation
 
-Access presentation materials [here] (Presentation).
+Access presentation materials [here](Presentation).
 
 # Voyant
 
-View my voyant visualizations [here] (Voyant).
+View my voyant visualizations [here](Voyant).
 
 # Zaxis
 
-View my Zaxis maps [here] (Zaxis).
+View my Zaxis maps [here](Zaxis).
 
 # Seminar Essay
 
-Read my seminar essay [here] Seminar essay).
+Read my seminar essay [here](Seminar essay).
