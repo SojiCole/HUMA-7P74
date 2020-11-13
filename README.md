@@ -20,4 +20,5 @@ View my Zaxis maps [here](Zaxis).
 
 # Seminar Essay
 
-Read my seminar essay [here](Seminar essay).
+Read my seminar essay [here](Essay).
+
