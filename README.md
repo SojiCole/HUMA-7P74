@@ -1,6 +1,7 @@
 # HUMA 7P74/ Soji Cole
 
 Welcome to my website. More coming soon!
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbc.ca%2Ftv%2Ffeatures%2Findigenous-storytellers%2F&psig=AOvVaw048NjFaFWwSC-RXeac2y91&ust=1605375507200000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiHnYKIgO0CFQAAAAAdAAAAABAK)
 
 ## Bio
 
@@ -10,6 +11,7 @@ I am currently a PhD student of Interdisciplinary Humanities, at Brock Universit
 # Presentation
 
 Access presentation materials [here](Presentation).
+
 
 # Voyant
 
