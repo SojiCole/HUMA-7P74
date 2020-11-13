@@ -11,7 +11,7 @@ I am currently a PhD student of Interdisciplinary Humanities, at Brock Universit
 
 # Presentation
 
-Access presentation materials [here]
+Access presentation materials [here] (Presentation).
 
 ![](https://www.youtube.com/watch?v=Oq-WL_TIdMY&t=76s).
 
