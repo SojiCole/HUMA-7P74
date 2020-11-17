@@ -23,6 +23,8 @@ View my voyant visualizations [here](Voyant).
 
 View my Zaxis maps [here](Zaxis).
 
+![] (Add Zaxis media/Zaxis map image 1.png)
+
 # Seminar Essay
 
 Read my seminar essay [here](Essay).
