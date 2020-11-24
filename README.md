@@ -29,3 +29,13 @@ View my Zaxis maps [here](Zaxis).
 # Seminar Essay
 
 Read my seminar essay [here](Essay).
+
+## Abstract
+
+View abstract 1 [here]
+
+![] (ABSTRACT 1. docx)
+
+View abstract 2 [here]
+
+![] ABSTRACT 2. docx)
