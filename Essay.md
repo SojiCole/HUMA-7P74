@@ -2,9 +2,9 @@
 
 ## Abstract
 
-My abstract goes here.
+My abstracts go here.
 
-My second abstract goes here.
+
 
 ## Essay
 
