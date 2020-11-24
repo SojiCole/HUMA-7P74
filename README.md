@@ -34,8 +34,13 @@ Read my seminar essay [here](Essay).
 
 View abstract 1 [here]
 
-![] (ABSTRACT 1. docx)
+![] **Staging ‘The New Normal’: Space, Place, and Ergonomics of (Covid-19) Live Theatre Performance on Zoom**
+
+(The global explosion of the Coronavirus pandemic compelled a wave of ‘canceled/postponed’ projects of live theatre performances all over the world. As various countries entered the stage of lockdown, it became imperative that live theatre had to redesign itself to avoid a plunge into a ‘dark era’. To retain their audiences, many theatre productions had to utilize digital avenues for performances. Drawing on the rich history of radio plays, some theatre companies resorted to podcast productions which were played on audio devices, while many more adopt zoom, an audio-visual digital platform, to stream performances. Theatre production on zoom initiated a symbiotic gesture with technology. Thus, defining theatre space in this hybrid environment becomes an artistic, as well as a philosophical challenge. Using (the (Z-axis) (mud-box) mapping system), this study seeks to analyze spatial boundary between theatre performance and computer interface. As an inter-active hybrid model, the study also seeks to investigate which discipline between theatre and technology becomes primary, and consequently integrate the other in zoom performances. While the study promotes digital humanities, it suggests that the abrupt movement of theatre performances to zoom had generated an unsettling spatial contest between theatre and technology, which may consequently create psychological fatigue for both performers and the audience.)
+
 
 View abstract 2 [here]
 
-![] ABSTRACT 2. docx)
+![] **(Z-axis) Mud-box visualization of space in Samuel Beckett’s Waiting for Godot**
+
+(Perhaps, the most crucial dialogic sentences in conceiving of texts to imagined visual space in Samuel Beckett’s Waiting for Godot are; “Nothing to be done”, and “Yes, let’s go”. (They do not move). These sentences broadly define the space and spatial embodiment of the characters as movements oscillate substantially between the characters; Vladimir and Estragon, and the bare tree. Although there are other visual aesthetics and characters in the play, these aforementioned greatly exhibit the agential relationships that influence the space ergonomics of the stage throughout the play. While the tree serves as pivot with which the characters orbit, it also serves as an object to map time within the visual space where the characters consistently wait for Mr. Godot. Thus, Waiting for Godot can be described as a theatre that is full of movements but appears to be motionless. This paradoxical aesthetic makes the play one of the most profound modern English dramas, in terms of defining characters and space. In a drama suffused with repetitive rhetoric in terms of character’s actions and dialogues, dramatic movement is accentuated by the indefinite ambiguity of the characters in playing true to the explicit dictates of the dialogue, and rebelling against it. Therefore, geospatial analysis of movements becomes a meaningful tool in the further interpretation, and study of the play.)
