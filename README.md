@@ -44,3 +44,8 @@ View abstract 2 [here]
 ![] **(Z-axis) Mud-box visualization of space in Samuel Beckett’s Waiting for Godot**
 
 (Perhaps, the most crucial dialogic sentences in conceiving of texts to imagined visual space in Samuel Beckett’s Waiting for Godot are; “Nothing to be done”, and “Yes, let’s go”. (They do not move). These sentences broadly define the space and spatial embodiment of the characters as movements oscillate substantially between the characters; Vladimir and Estragon, and the bare tree. Although there are other visual aesthetics and characters in the play, these aforementioned greatly exhibit the agential relationships that influence the space ergonomics of the stage throughout the play. While the tree serves as pivot with which the characters orbit, it also serves as an object to map time within the visual space where the characters consistently wait for Mr. Godot. Thus, Waiting for Godot can be described as a theatre that is full of movements but appears to be motionless. This paradoxical aesthetic makes the play one of the most profound modern English dramas, in terms of defining characters and space. In a drama suffused with repetitive rhetoric in terms of character’s actions and dialogues, dramatic movement is accentuated by the indefinite ambiguity of the characters in playing true to the explicit dictates of the dialogue, and rebelling against it. Therefore, geospatial analysis of movements becomes a meaningful tool in the further interpretation, and study of the play.)
+
+## Trials
+
+
+![] (https://61qqbc.axshare.com)
