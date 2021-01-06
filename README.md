@@ -53,7 +53,7 @@ View abstract 2 [here]
 
 # FINAL PROJECT
 
-View ESSAY [here]
+## View ESSAY [[here]]
 
 PORTRAYING SAMUEL BECKETT’S WAITING FOR GODOT IN DIGITAL NON-LINEAR (NON-REALIST) TWINE TEXTS
 
@@ -114,7 +114,8 @@ Saussure, Ferdinand. Cours de Linguistique Generale/Course in General Linguistic
 Wald, Priscilla. Contagious: Cultures, Carriers, and the Outbreak Narrative. Duke University Press, 2008.
 
 
-TWINE PROJECT
+## View TWINE visualization [[here]]
+
 
 ! [] (https://twinery.org/2/#!/stories/98ba76a6-b6c6-4582-a2b9-878926568e89)
 
