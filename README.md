@@ -114,4 +114,9 @@ Saussure, Ferdinand. Cours de Linguistique Generale/Course in General Linguistic
 Wald, Priscilla. Contagious: Cultures, Carriers, and the Outbreak Narrative. Duke University Press, 2008.
 
 
+TWINE PROJECT
+
+![] (https://twinery.org/2/#!/stories/98ba76a6-b6c6-4582-a2b9-878926568e89)
+
+
 
