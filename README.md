@@ -55,7 +55,8 @@ View abstract 2 [here]
 
 View ESSAY [here]
 
-(PORTRAYING SAMUEL BECKETT’S WAITING FOR GODOT IN DIGITAL NON-LINEAR (NON-REALIST) TWINE TEXTS
+PORTRAYING SAMUEL BECKETT’S WAITING FOR GODOT IN DIGITAL NON-LINEAR (NON-REALIST) TWINE TEXTS
+
 Soji Cole
 6610091
 01/06/2021
@@ -110,7 +111,7 @@ Levy, Eric. “False Innocence in Waiting for Godot”, Journal of Beckett Studi
 Ross, Shawna. “Introduction”, Reading Modernism with Machines: Digital Humanities and Modernist Literature, Shawna Ross and James O’Sullivan (eds.). Palgrave Macmillan, pp. 1-13, 2016.
 Ryan, Marie-Laure. “From Narrative Games to Playable Stories: Toward a Poetics of Interactive Narrative”, Storyworlds: A Journal of Narrative Studies, Vol. 1, pp. 43-59, 2009. 
 Saussure, Ferdinand. Cours de Linguistique Generale/Course in General Linguistics. Duckworth,   1983.
-Wald, Priscilla. Contagious: Cultures, Carriers, and the Outbreak Narrative. Duke University Press, 2008.)
+Wald, Priscilla. Contagious: Cultures, Carriers, and the Outbreak Narrative. Duke University Press, 2008.
 
 
 
