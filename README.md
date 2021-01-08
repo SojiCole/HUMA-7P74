@@ -27,7 +27,7 @@ View my Zaxis maps [here](Zaxis).
 
 # Twine 
 
-View my Twine project [here] (https://twinery.org/2/#!/stories/98ba76a6-b6c6-4582-a2b9-878926568e89).
+View my Twine project [here](https://twinery.org/2/#!/stories/98ba76a6-b6c6-4582-a2b9-878926568e89).
 
 ![] (https://twinery.org/2/#!/stories/98ba76a6-b6c6-4582-a2b9-878926568e89)
 
